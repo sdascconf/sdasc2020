@@ -118,7 +118,7 @@ proceedings.
 
 The submissions are handled by Easy Chair:
 
-https://easychair.org/my/conference.cgi?conf=sdasc2020
+https://easychair.org/conferences/?conf=sdasc2020
 
 ---------------
 Important dates
