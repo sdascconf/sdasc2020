@@ -8,7 +8,11 @@ June 25, 2020, Thursday
 
 * 14:00 -- 14:05 Introduction
 
-* 14:05 -- 14:55 Keynote
+* 14:05 -- 14:55 Keynote: Mallikarjun (Arjun) Shankar, Oak Ridge National Laboratory
+
+  **Title** TBA
+
+  **Abstract** TBA
 
 * 14:55 -- 15:00 *Question/Answers session*
 
