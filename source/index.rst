@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-The 2nd International Workshop on Scalable Data Analytics in Scientific Computing (SDASC) 2020
+The 2nd International Workshop on Scalable Data Analytics in Scientific Computing (SDASC) 2021
 ==============================================================================================
 
 .. toctree::
@@ -32,7 +32,7 @@ fields as experts of note and will assure fulfilment of the goals of the
 workshop outlined below.
 
 This workshop will complement the other events artificial intelligence, machine
-learning, and data analytics taking place at ISC 2020.
+learning, and data analytics taking place at ISC 2021.
 
 Finally, the workshop aims to establish a forum of discourse and exchange of
 ideas about current practices for integration of HPC and data analytics. The
