@@ -12,7 +12,7 @@ Call for Papers
 
 The 2nd International Scalable Data Analytics in Scientific Computing (SDASC)
 workshop invites submissions of original research. The event will be co-located
-with the ISC High Performance 2020 conference. More details are available at:
+with the ISC High Performance 2021 conference. More details are available at:
 
 https://sdascconf.github.io/
 
@@ -31,7 +31,7 @@ are recognized in their respective fields as experts of note and will
 assure fulfilment of the goals of the workshop.
 
 This workshop will complement the other events artificial intelligence, machine
-learning, and data analytics taking place at ISC 2020.
+learning, and data analytics taking place at ISC 2021.
 
 ------------------
 Topics of Interest
@@ -124,17 +124,17 @@ https://easychair.org/conferences/?conf=sdasc2020
 Important dates
 ---------------
 
-- Abstract submission: March 22, 2020 (AoE)
+- Abstract submission: TBD (AoE)
 
-- Full paper submission: March 29, 2020 (AoE)
+- Full paper submission: TBD (AoE)
 
-- Paper acceptance: April 13, 2020
+- Paper acceptance: April TBD
 
-- Conference-ready deadline: May 6, 2020
+- Conference-ready deadline: TBD
 
-- Workshop date: June 25, 2020
+- Workshop date: July 2, 2021
 
-- Camera-ready deadline: July 5, 2020
+- Camera-ready deadline: TBD
 
 -------------------------
 Organizers (alphabetical)
@@ -156,6 +156,6 @@ More details available at:
 
 https://sdascconf.github.io/
 
-and on the ISC 2020 workshops' page:
+and on the ISC 2021 workshops' page:
 
 https://www.isc-hpc.com/workshops-2020.html
