@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = 'SDASC'
-copyright = '2018-2020, Piotr Luszczek and Hartwig Anzt'
+copyright = '2018-2021, Piotr Luszczek and Hartwig Anzt'
 author = 'Piotr Luszczek and Hartwig Anzt'
 
 # The short X.Y version
-version = '2020-06-25'
+version = '2021-03-18'
 # The full version, including alpha/beta/rc tags
-release = '2020-06-25'
+release = '2021-03-18'
 
 
 # -- General configuration ---------------------------------------------------
